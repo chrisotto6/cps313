@@ -1,0 +1,5 @@
+C:\Users\chris\AppData\Local\Programs\Python\Python36-32\python.exe C:/Git/CPS313/Week1/Exercise9.py
+Enter the Celsius temperature: 60
+The temperature in Fahrenheit is:  140.0
+
+Process finished with exit code 0

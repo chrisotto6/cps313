@@ -1,0 +1,21 @@
+C:\Users\chris\AppData\Local\Programs\Python\Python36-32\python.exe C:/Git/CPS313/Week2/Exercise15.py
+Enter the seconds: 50
+Seconds:  50
+
+Process finished with exit code 0
+
+----------------------------
+
+C:\Users\chris\AppData\Local\Programs\Python\Python36-32\python.exe C:/Git/CPS313/Week2/Exercise15.py
+Enter the seconds: 3600
+Hours:  1.0
+
+Process finished with exit code 0
+
+----------------------------
+
+C:\Users\chris\AppData\Local\Programs\Python\Python36-32\python.exe C:/Git/CPS313/Week2/Exercise15.py
+Enter the seconds: 122035
+Days:  1.4124421296296297
+
+Process finished with exit code 0

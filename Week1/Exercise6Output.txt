@@ -1,0 +1,9 @@
+C:\Users\chris\AppData\Local\Programs\Python\Python36-32\python.exe C:/Git/CPS313/Week1/Exercise6.py
+Enter the purchase amount: 140
+Original Amount of Purchase:  140.0
+State Sales Tax:  7.0
+Country Sales Tax:  3.5
+Total Sales Tax:  10.5
+Final Purchase Price:  150.5
+
+Process finished with exit code 0
