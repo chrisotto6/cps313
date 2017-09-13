@@ -1,0 +1,26 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /Users/chris/Projects/cps313/Week5/Exercise8.py
+Number: 326
+Number: 246
+Number: 40
+Number: 285
+Number: 391
+Number: 437
+Number: 225
+Number: 424
+Number: 183
+Number: 94
+Number: 51
+Number: 194
+Number: 90
+Number: 499
+Number: 293
+Number: 234
+Number: 465
+Number: 76
+Number: 266
+Number: 137
+
+Sum of all numbers:  4956
+Count of all numbers:  20
+
+Process finished with exit code 0
