@@ -2,6 +2,8 @@
 # Week 5 - Program Exercise 8
 # CPS313
 
+# Random number file reader
+
 def main():
 
     infile = open('Exercise7Output.txt', 'r')
