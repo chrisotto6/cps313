@@ -1,0 +1,30 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /Users/chris/Projects/cps313/Week4/Exercise18.py
+The application will print out all numbers prime from 1 to 100.
+1
+2
+3
+5
+7
+11
+13
+17
+19
+23
+29
+31
+37
+41
+43
+47
+53
+59
+61
+67
+71
+73
+79
+83
+89
+97
+
+Process finished with exit code 0

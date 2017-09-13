@@ -1,0 +1,11 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /Users/chris/Projects/cps313/Week4/Exercise17.py
+Enter a number to see if it is prime (no 1's or 0's): 5
+The number: 5 is prime.
+
+Process finished with exit code 0
+
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /Users/chris/Projects/cps313/Week4/Exercise17.py
+Enter a number to see if it is prime (no 1's or 0's): 6
+The number: 6 is non-prime.
+
+Process finished with exit code 0
