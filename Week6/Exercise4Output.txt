@@ -1,0 +1,33 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /Users/chris/Projects/cps313/Week6/Exercise4.py
+Enter one number: 1
+Enter one number: 2
+Enter one number: 3
+Enter one number: 4
+Enter one number: 5
+Enter one number: 6
+Enter one number: 7
+Enter one number: 8
+Enter one number: 9
+Enter one number: 10
+Enter one number: 11
+Enter one number: 12
+Enter one number: 13
+Enter one number: 14
+Enter one number: 15
+Enter one number: 16
+Enter one number: 17
+Enter one number: 18
+Enter one number: 19
+Enter one number: 20
+
+The details of the input are:
+
+Lowest number:  1
+
+Highest number:  20
+
+Total:  210
+
+Average:  10.5
+
+Process finished with exit code 0

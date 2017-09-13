@@ -1,0 +1,13 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /Users/chris/Projects/cps313/Week6/Exercise2.py
+Contents of the List:
+9
+5
+2
+5
+1
+5
+1
+
+The winning number is:  9525151
+
+Process finished with exit code 0
