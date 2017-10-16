@@ -1,0 +1,16 @@
+C:\Users\chris\AppData\Local\Programs\Python\Python36-32\python.exe C:/Git/CPS313/Week9/Exercise1.py
+Please enter a course code: cs150
+
+Invalid course ID.
+
+Process finished with exit code 0
+
+C:\Users\chris\AppData\Local\Programs\Python\Python36-32\python.exe C:/Git/CPS313/Week9/Exercise1.py
+Please enter a course code: CS101
+
+Course information: CS101
+Room number: 3004
+Instructor: Haynes
+Time: 8:00 AM
+
+Process finished with exit code 0
