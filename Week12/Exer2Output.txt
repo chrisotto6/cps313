@@ -1,0 +1,7 @@
+C:\Users\chris\AppData\Local\Programs\Python\Python36-32\python.exe C:/Git/CPS313/Week12/Exer2.py
+Recursive multiplication....
+Enter in the first number:7
+Enter in the second number:7
+49
+
+Process finished with exit code 0

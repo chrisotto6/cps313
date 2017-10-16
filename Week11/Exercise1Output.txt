@@ -1,0 +1,15 @@
+C:\Users\chris\AppData\Local\Programs\Python\Python36-32\python.exe C:/Git/CPS313/Week11/Exer1.py
+Create a new employee...
+
+Enter name:Chris Otto
+Enter number:832747
+Enter shift:1
+Enter pay:50k
+New production worker is...
+
+Name: Chris Otto
+Number: 832747
+Shift: 1
+Pay: 50k
+
+Process finished with exit code 0

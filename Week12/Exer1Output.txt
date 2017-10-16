@@ -1,0 +1,10 @@
+C:\Users\chris\AppData\Local\Programs\Python\Python36-32\python.exe C:/Git/CPS313/Week12/Exer1.py
+Enter a positive integer:6
+1
+2
+3
+4
+5
+6
+
+Process finished with exit code 0
