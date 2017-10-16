@@ -1,0 +1,12 @@
+C:\Users\chris\AppData\Local\Programs\Python\Python36-32\python.exe C:/Git/CPS313/Week8/Exercise2.py
+Enter a number: 123456789
+The sum of the string entered is:  45
+
+Process finished with exit code 0
+
+C:\Users\chris\AppData\Local\Programs\Python\Python36-32\python.exe C:/Git/CPS313/Week8/Exercise2.py
+Enter a number: 4d
+d is not a number.
+The string entered had non-number characters. Invalid.
+
+Process finished with exit code 0
