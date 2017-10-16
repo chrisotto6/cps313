@@ -1,0 +1,13 @@
+C:\Users\chris\AppData\Local\Programs\Python\Python36-32\python.exe C:/Git/CPS313/Week10/Exercise2.py
+Current speed: 5
+Current speed: 10
+Current speed: 15
+Current speed: 20
+Current speed: 25
+Current speed: 20
+Current speed: 15
+Current speed: 10
+Current speed: 5
+Current speed: 0
+
+Process finished with exit code 0

@@ -1,0 +1,21 @@
+C:\Users\chris\AppData\Local\Programs\Python\Python36-32\python.exe C:/Git/CPS313/Week10/Exercise3.py
+
+Person is:
+Name: Chris Otto
+Address: 123 Test Way
+Age: 29
+Phone: 555-555-5555
+
+Person is:
+Name: Madalyn Otto
+Address: 123 Test Way
+Age: 28
+Phone: 555-555-5556
+
+Person is:
+Name: Wilson Otto
+Address: 123 Test Way
+Age: 5
+Phone: 555-555-WOOF
+
+Process finished with exit code 0
