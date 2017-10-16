@@ -1,0 +1,13 @@
+C:\Users\chris\AppData\Local\Programs\Python\Python36-32\python.exe C:/Git/CPS313/Week8/Exercise5.py
+Enter a telephone number: 1-800-CAL-OTTO
+
+The convertered number is: 1-800-225-6886
+
+Process finished with exit code 0
+
+C:\Users\chris\AppData\Local\Programs\Python\Python36-32\python.exe C:/Git/CPS313/Week8/Exercise5.py
+Enter a telephone number: 555-784-8694
+
+The convertered number is: 555-784-8694
+
+Process finished with exit code 0
